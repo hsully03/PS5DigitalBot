@@ -1,4 +1,7 @@
-# PS5bot
+# PS5Digitalbot
+
+This is a fork of VVNoodle's PS5Bot edited to buy a Digital Edition.
+Original ReadMe is below.
 
 ## ⚠️ this project is not maintained anymore
 
