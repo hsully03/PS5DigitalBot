@@ -66,7 +66,7 @@ export const scrapeDirect = async (config: { [key: string]: string }) => {
     //   'https://direct.playstation.com/en-us/accessories/accessory/dualsense-wireless-controller.3005715'
     // )
     await page.goto(
-      'https://direct.playstation.com/en-us/consoles/console/playstation5-console.3005816'
+      'https://direct.playstation.com/en-us/consoles/console/playstation5-digital-edition-console.3005817'
     )
 
     await waitTillSelectorAppears(

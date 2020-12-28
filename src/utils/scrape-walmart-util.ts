@@ -36,7 +36,7 @@ export const scrapeWalmart = async (config: { [key: string]: string }) => {
     })
 
     await page.goto(
-      'https://www.walmart.com/ip/PlayStation-5-Console/363472942'
+      'https://www.walmart.com/ip/Sony-PlayStation-5-Digital-Edition/493824815?irgwc=1&sourceid=imp_Qw5wFYwtDxyLUi9wUx0Mo3b3UkEyxMTYE0YGyk0&veh=aff&wmlspartner=imp_159047&clickid=Qw5wFYwtDxyLUi9wUx0Mo3b3UkEyxMTYE0YGyk0&sharedid=techrepublic&ad_id=565706&campaign_id=9383'
     )
     // await page.goto(
     //   'https://www.walmart.com/ip/Sony-PlayStation-5-DualSense-Wireless-Controller/615549727'
